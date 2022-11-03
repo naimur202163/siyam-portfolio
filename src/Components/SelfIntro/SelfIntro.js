@@ -17,8 +17,7 @@ function SelfIntro() {
               LET ME <span className="purple"> INTRODUCE </span> MYSELF
             </h1>
             <p className="home-about-body">
-              I fell in love with programming and I have at least learnt
-              something, I think… 🤷‍♂️
+              I am A chinnese molla I Love to teaching arabic
               <br />
               <br />I am fluent in classics like
               <i>

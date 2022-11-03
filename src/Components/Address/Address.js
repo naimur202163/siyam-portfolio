@@ -27,13 +27,13 @@ function Address() {
 
            <h4 >Phone Number</h4> 
               
-              <p>  <AiOutlineWhatsApp/> +880  01778470061</p>
+              <p>  <AiOutlineWhatsApp/> +880  01736955573</p>
               </Col>
               <Col md={6} className="contact-address">
               <h4 >Email Address</h4> 
               <p>
                 
-                <AiOutlineMail/> naimur202163@gmail.com
+                <AiOutlineMail/> mdjabedHassan74@gmail.com
               </p>
               </Col>
 
